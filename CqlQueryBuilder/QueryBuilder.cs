@@ -5,6 +5,7 @@ using CqlQueryBuilder.Builders;
 
 namespace CqlQueryBuilder
 {
+    /* brief comm */
     public class QueryBuilder
     {
         private QueryBuilder() { }
